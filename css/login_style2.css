@@ -95,8 +95,8 @@ input[type="password"]:focus {
 		height: 323px;
 		background-color: #eff0f2;
 	}
-	input [type="text"],
-	input [type="password"] {
+	input[type="text"],
+	input[type="password"] {
 		width: 430px;
 		font-size: 20px;
 	}	
@@ -129,8 +129,8 @@ input[type="password"]:focus {
 		height: 297px;
 		background-color: #eff0f2;
 	}
-	input [type="text"],
-	input [type="password"] {
+	input[type="text"],
+	input[type="password"] {
 		width: 250px;
 		font-size: 15px;
 	}	
